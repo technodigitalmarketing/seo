@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /css/
+Disallow: /images/
+Disallow: /README.md/
+Disallow: /js/
+Disallow: /.git/
